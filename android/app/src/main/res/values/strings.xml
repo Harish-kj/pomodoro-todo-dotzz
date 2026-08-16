@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PomodoroTodo</string>
+    <string name="title_activity_main">PomodoroTodo</string>
+    <string name="package_name">com.harsha.pomodoro</string>
+    <string name="custom_url_scheme">com.harsha.pomodoro</string>
+</resources>
